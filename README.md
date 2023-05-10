@@ -1,3 +1,4 @@
+👋 Welcome to my Fullstack Developer profile
 
 # 👋 Welcome to my Fullstack Developer profile
 
@@ -13,15 +14,15 @@ Hello! I am a Fullstack Developer with experience in different technologies. In 
 
 Here are some projects I've worked on recently:
 
-- 🤖 [Project 1](https://github.com/miusuario/proyecto1): a web application I developed using Node.js, Express, and MongoDB. This application allows users to search and obtain detailed information about different products.
-- 🚀 [Project 2](https://github.com/miusuario/proyecto2): a web application developed with React and using PostgreSQL as a database. This application allows users to register and create different types of content, such as posts and comments.
+- 🤖 [IA translate Spanish to English](https://github.com/nestornovella/EngishFixCorrector): a web application developed with JS and Cohere IA (API) with HTML and CSS.
+- 🚀 [Ecommerce-computer-Products](https://github.com/miguelbel00/p-grupal): An e-commerce platform for computer products developed with React.js, Redux, Node.js, Sequelize(ORM), and PostgreSQL. The application allows users to register, login, and use AWT authentication. It also features an administrator panel and allows for buying products using PayPal payment platform.
+- 🚀 [Food API](https://github.com/nestornovella/PI-Food): a simple web app developed with JS, React.js, Redux, Node.js, Sequelize(ORM), and PostgreSQL.
 
 ## 📞 Contact
 
 If you want to get in touch with me, you can do so in the following ways:
 
-- 📧 Send me an email at [correo@ejemplo.com](nestornovellafullstackdev@gmail.com).
-- 💼 Visit my LinkedIn profile: [https://www.linkedin.com/in/nestor-novella-full-stack-dev/].
-
+- 📧 Send me an email at (nestornovellafullstackdev@gmail.com).
+- 💼 Visit my LinkedIn profile: [https://www.linkedin.com/in/nestor-novella-full-stack-dev/]
 
 Thanks for visiting my profile!
