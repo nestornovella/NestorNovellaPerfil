@@ -1,5 +1,3 @@
-👋 Welcome to my Fullstack Developer profile
-
 # 👋 Welcome to my Fullstack Developer profile
 
 Hello! I am a Fullstack Developer with experience in different technologies. In this README file, I'll tell you a bit more about myself and my skills.
